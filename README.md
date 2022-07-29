@@ -1,1 +1,2 @@
-# Get-Current-Location-using-HTML-and-Javascript
+# Get User Location using HTML & Javascript
+### The Geolocation API provides a amazing and standard way to request a user for its place. The location provided by the user can be determined using GPS, WIFI, IP Geolocation, etc., which depends on the device used by the user. To protect the user’s privacy, it will first ask for permission to locate the device, and if the user grants permission, we can locate the device. 
